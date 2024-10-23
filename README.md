@@ -1,6 +1,6 @@
 # Trade history
 
-Integrate with Kraken API to show a list of recent trades for BTC-CAD.
+Integrate with Kraken API to show a list of recent trades for BTCCAD.
 
 Please share your screen and use CodeSandbox to complete the task. You might have to login to CodeSandbox.
 https://codesandbox.io/p/sandbox/react-ts?file=%2Fsrc%2FApp.tsx
